@@ -1,4 +1,4 @@
-alert('Gabriel Isuekebho,', '5ft 9inches,', 'Nigeria');
+alert('Gabriel Isuekebho'+ ' ' + '5ft 9inches'+ ' ' + 'Nigeria');
 
 let firstName = prompt('What is your name? ');
 let height = prompt('What is your height? ');
